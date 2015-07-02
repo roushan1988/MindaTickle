@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="bin/www" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="$USER_HOME$/Softwares/node-v0.12.5-linux-x64/bin/node" path-to-js-file="bin/www" working-dir="$PROJECT_DIR$">
+    <envs>
+      <env name="DEBUG" value="MindaTickle:*" />
+    </envs>
+    <browser start="true" url="http://localhost:3000/" />
+    <method />
+  </configuration>
+</component>
